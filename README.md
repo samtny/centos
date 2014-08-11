@@ -1,7 +1,7 @@
 centos
 ======
 
-requires: vagrant, VirtualBox v4.2.10+
+requires: git, vagrant, VirtualBox v4.2.10+
 
 usage:
 
